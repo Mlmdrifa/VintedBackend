@@ -1,6 +1,7 @@
 const express = require("express");
 const cloudinary = require("cloudinary").v2;
 const mongoose = require("mongoose");
+console.log("eee");
 
 require("dotenv").config();
 
